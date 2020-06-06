@@ -1,0 +1,12 @@
+if (Product.GetVar(\"MicMining\", true))//Check if player has been caught
+	{
+	Product.Bugs = Max(0, Product.Bugs - Product.Userbase * 0.01);//Remove 1 bug from product for each 100th active user
+	if (Random() * Product.Userbase > 1000000 * Product.Category.Popularity)//Random chance of getting caught
+		{
+		LaunchLawsuit(\"SpyingOnUsers\", Product.Sum, 1);//Create anonymous lawsuit
+		Product.DevCompany.AddFans(-Product.Userbase, Product.Category);//Remove fans and market recognition from player in category
+		Product.Userbase = Product.Userbase * 0.05;//Remove 95% of active users
+		Product.KillAwareness();//Remove all marketing
+		Product.PutVar(\"MicMining\", false);//Mark player as caught for this product
+		}
+	}
