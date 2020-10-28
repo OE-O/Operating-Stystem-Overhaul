@@ -207,59 +207,59 @@ Most software needs an Operating System to run on. When people stop buying a lin
 			Features
 				[
 					{
-					Name		"Multitasking"
-					Description "Let your users pretend they can multitask by having several applications open at any one time"
-					DevTime		6
-					Level		2
-					CodeArt		1
-					Submarkets	[ 1; 0; 2 ]
+					Name				"Multitasking"
+					Description 		"Let your users pretend they can multitask by having several applications open at any one time"
+					DevTime				6
+					Level				2
+					CodeArt				1
+					Submarkets			[ 1; 0; 2 ]
 					}
 					{
-					Name		"User accounts"
-					DevTime		5
-					Level		2
-					CodeArt		1
-					Submarkets	[ 1; 2; 0 ]
+					Name				"User accounts"
+					DevTime				5
+					Level				2
+					CodeArt				1
+					Submarkets			[ 1; 2; 0 ]
 					}
 					{
-					Name		"Plug'n'Play"
-					Description	"Allow the user to interact with the operating system in any number of ways"
-					DevTime		5
-					Level		2
-					CodeArt		1
-					Submarkets	[ 3; 0; 1 ]
+					Name				"Plug'n'Play"
+					Description			"Allow the user to interact with the operating system in any number of ways"
+					DevTime				5
+					Level				2
+					CodeArt				1
+					Submarkets			[ 3; 0; 1 ]
 					}
 					{
-					Name		"File encryption"
-					Description "Sometimes used"
-					DevTime		4
-					Level		2
-					CodeArt		1
-					Submarkets	[ 0; 1; 0 ]
+					Name				"File encryption"
+					Description 		"Sometimes used"
+					DevTime				4
+					Level				2
+					CodeArt				1
+					Submarkets			[ 0; 1; 0 ]
 					}
 					{
-					Name		"System recovery"
-					DevTime		4
-					Level		2
-					CodeArt		1
-					Submarkets	[ 0; 1; 0 ]
+					Name				"System recovery"
+					DevTime				4
+					Level				2
+					CodeArt				1
+					Submarkets			[ 0; 1; 0 ]
 					}
 					{
-					Name		"Virtualization"
-					Description "I put an OS in your OS, etc."
-					DevTime		5
-					Level		2
-					CodeArt		1
-					SoftwareCategories [ Computer ]
-					Submarkets	[ 0; 1; 0 ]
+					Name				"Virtualization"
+					Description 		"I put an OS in your OS, etc."
+					DevTime				5
+					Level				2
+					CodeArt				1
+					SoftwareCategories 	[ Computer ]
+					Submarkets			[ 0; 1; 0 ]
 					}
 					{
-					Name		"Code signing"
-					Description "Prevent pirates! \"No not the ones sailing the 7 seas\""
-					DevTime		4
-					Level		2
-					CodeArt		1
-					Submarkets	[ 0; 1; 0 ]
+					Name				"Code signing"
+					Description 		"Prevent pirates! \"No not the ones sailing the 7 seas\""
+					DevTime				4
+					Level				2
+					CodeArt				1
+					Submarkets			[ 0; 1; 0 ]
 					}
 				]
 			}
@@ -272,63 +272,63 @@ Most software needs an Operating System to run on. When people stop buying a lin
 			Features
 				[
 					{
-					Name		"Custom themes"
-					DevTime		6
-					Level		2
-					CodeArt		1
-					Submarkets	[ 0; 0; 1 ]
+					Name				"Custom themes"
+					DevTime				6
+					Level				2
+					CodeArt				1
+					Submarkets			[ 0; 0; 1 ]
 					}
 					{
-					Name		"Windowing system"
-					DevTime		4
-					Level		2
-					CodeArt		1
-					SoftwareCategories [ Computer ]
-					Submarkets	[ 0; 0; 1 ]
+					Name				"Windowing system"
+					DevTime				4
+					Level				2
+					CodeArt				1
+					SoftwareCategories 	[ Computer ]
+					Submarkets			[ 0; 0; 1 ]
 					}
 					{
-					Name		"Unified search"
-					DevTime		3
-					Level		1
-					CodeArt		1
-					Submarkets	[ 1; 0; 0 ]
+					Name				"Unified search"
+					DevTime				3
+					Level				1
+					CodeArt				1
+					Submarkets			[ 1; 0; 0 ]
 					}
 					{
-					Name		"Themes"
-					DevTime		4
-					Level		1
-					CodeArt		0.5
-					Submarkets	[ 0; 0; 1 ]
+					Name				"Themes"
+					DevTime				4
+					Level				1
+					CodeArt				0.5
+					Submarkets			[ 0; 0; 1 ]
 					}
 					{
-					Name		"Widgets"
-					DevTime		3
-					Level		1
-					CodeArt		0.75
-					Submarkets	[ 1; 0; 2 ]
+					Name				"Widgets"
+					DevTime				3
+					Level				1
+					CodeArt				0.75
+					Submarkets			[ 1; 0; 2 ]
 					}
 					{
-					Name		"Notifications"
-					DevTime		3
-					Level		1
-					CodeArt		1
-					Submarkets	[ 1; 0; 0 ]
+					Name				"Notifications"
+					DevTime				3
+					Level				1
+					CodeArt				1
+					Submarkets			[ 1; 0; 0 ]
 					}
 					{
-					Name        "Quick Access Toolbar"
-					Description "Predict which app your user are going to use next"
-					DevTime     2
-					Level       2
-					CodeArt     0.85
-					Submarkets  [ 1; 0; 1]
+					Name        		"Quick Access Toolbar"
+					Description 		"Predict which app your user are going to use next"
+					DevTime     		2
+					Level       		2
+					CodeArt     		0.85
+					Submarkets  		[ 1; 0; 1]
 					}
 					{
-					Name        "Sign In Screen"
-					Description "Might prevent theft."
-					DevTime     1
-					Level       2
-					CodeArt     0.6
-					Submarkets  [ 1; 2; 0]
+					Name        		"Sign In Screen"
+					Description 		"Might prevent theft."
+					DevTime     		1
+					Level       		2
+					CodeArt     		0.6
+					Submarkets  		[ 1; 2; 0]
 					}
 				]
 			}
@@ -390,31 +390,31 @@ Most software needs an Operating System to run on. When people stop buying a lin
 			Features
 				[
 					{
-					Name		"Auto-update"
-					Description	"Patch bugs, secure against malware and restart in the middle of an unsaved 60 page essay"
-					Server		0.0002
-					DevTime		5
-					Level		2
-					CodeArt		1
-					Submarkets	[ 0; 1; 0 ]
+					Name				"Auto-update"
+					Description			"Patch bugs, secure against malware and restart in the middle of an unsaved 60 page essay"
+					Server				0.0002
+					DevTime				5
+					Level				2
+					CodeArt				1
+					Submarkets			[ 0; 1; 0 ]
 					}
 					{
-					Name		"App store"
-					Description "For the users that don't know how to download apps from websites"
-					Server		0.0002
-					DevTime		6
-					Level		2
-					CodeArt		1
-					Submarkets	[ 1; 1; 1 ]
+					Name				"App store"
+					Description 		"For the users that don't know how to download apps from websites"
+					Server				0.0002
+					DevTime				6
+					Level				2
+					CodeArt				1
+					Submarkets			[ 1; 1; 1 ]
 					}
 					{
-					Name		"Cloud backup"
-					Description "\"A new folder has been detected. Would you like to back it up?\""
-					Server		0.0002
-					DevTime		5
-					Level		2
-					CodeArt		1
-					Submarkets	[ 1; 0; 0 ]
+					Name				"Cloud backup"
+					Description 		"\"A new folder has been detected. Would you like to back it up?\""
+					Server				0.0002
+					DevTime				5
+					Level				2
+					CodeArt				1
+					Submarkets			[ 1; 0; 0 ]
 					}
 				]
 			}
@@ -491,15 +491,15 @@ Most software needs an Operating System to run on. When people stop buying a lin
 					SoftwareCategories 	[Computer]
 					}
 					{
-					Name        "Bitcoin Mining"
-					Description "Earn a little bit of cash from mining bitcoin on users' hardware in the background. At a risk of getting caught"
-					DevTime     2
-					Level       3
-					CodeArt     1
-					Submarkets  0
-					SoftwareCategories [Computer; Console]
-					Script_OnRelease "Product.PutVar(\"BTC\", true);"
-					Script_EndOfDay "/Scripts/Bitcoin.txt"
+					Name        		"Bitcoin Mining"
+					Description 		"Earn a little bit of cash from mining bitcoin on users' hardware in the background. At a risk of getting caught"
+					DevTime     		2
+					Level       		3
+					CodeArt     		1
+					Submarkets  		0
+					SoftwareCategories 	[Computer; Console]
+					Script_OnRelease 	"Product.PutVar(\"BTC\", true);"
+					Script_EndOfDay 	"/Scripts/Bitcoin.txt"
 					}
 				]
 			}
