@@ -1,3 +1,5 @@
 Name        "OE-O | Operating System Overhaul"
 Description "Replaces the vanilla OS with a more feature rich one."
 Author      MattA
+SteamName   "OE-O | Operating System Overhaul (A11)"
+SteamID     2122581319
